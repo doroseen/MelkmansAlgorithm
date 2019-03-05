@@ -1,0 +1,11 @@
+C:\Users\Victor\source\repos\Melkman\Melkman\bin\Debug\Melkman.exe.config
+C:\Users\Victor\source\repos\Melkman\Melkman\bin\Debug\Melkman.exe
+C:\Users\Victor\source\repos\Melkman\Melkman\bin\Debug\Melkman.pdb
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.Properties.Resources.resources
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.exe
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.pdb
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.OutputForm.resources
+C:\Users\Victor\source\repos\Melkman\Melkman\obj\Debug\Melkman.InputForm.resources
